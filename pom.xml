@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.201.12.66:5450/repository/facebook-snapshot/</url>
+	      <url>http://3.110.32.219:5450/repository/Freestyle/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
