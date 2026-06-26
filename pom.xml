@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.110.176.157:9000/</sonar.host.url>
+		<sonar.host.url>http://3.109.206.105:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.token>sqa_a4bb59f7b77332d55f328c474adef13af533d78a</sonar.token> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.32.219:5450/repository/Freestyle/</url>
+	      <url>http://52.66.10.215:5450/repository/Freestyle/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
