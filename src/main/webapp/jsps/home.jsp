@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies</h1>
-<h1 align="center">Phone Number: +91 9980923216</h1>
-<h1 align="center">Mithun Technologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
+<h1 align="center">Welcome to Shivangi DevOps Classes</h1>
+<h1 align="center">Phone Number: +91 9560530043</h1>
+<h1 align="center">Shivangi Classes is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
 
-<h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>
+<h1 align="center">Trainer Name: Pankaj Chaudhary</h1>
 
 <hr>
 <br>
@@ -38,11 +38,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Marathahalli,
-		Bengaluru,
-		+91 9980923216 and 
-		Devopstrainingblr@Gmail.com
+		Shivangi Classes, 
+		Rajapuri,
+		New Delhi,
+		+91 9560530043 and 
+		pankajchoudhary289@Gmail.com
 		<br>
 		<a href="mailto:Devopstrainingblr@Gmail.com">Mail to Mithun Technologies</a>
 	</span>
